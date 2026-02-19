@@ -1,0 +1,32 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "KAINOVA Agent Grid",
+    "subtitle": "Complete tasks, earn KNTWS tokens",
+    "description": "The ultimate Farcaster mini-app for AI agent enthusiasts. Complete tasks, earn KNTWS tokens, climb the Agent Grid leaderboard, and redeem epic rewards.",
+    "iconUrl": "https://your-domain.vercel.app/images/icon.png",
+    "homeUrl": "https://your-domain.vercel.app",
+    "imageUrl": "https://your-domain.vercel.app/images/og-image.png",
+    "buttonTitle": "🚀 Enter Grid",
+    "splashImageUrl": "https://your-domain.vercel.app/images/splash-icon.png",
+    "splashBackgroundColor": "#0a0a0f",
+    "webhookUrl": "https://your-domain.vercel.app/api/webhooks/farcaster",
+    "primaryCategory": "entertainment",
+    "tags": ["agents", "ai", "tokens", "tasks", "gaming", "rewards"],
+    "heroImageUrl": "https://your-domain.vercel.app/images/hero.png",
+    "tagline": "Enter the Agent Grid. Earn KNTWS. Become Legendary.",
+    "ogTitle": "KAINOVA Agent Grid",
+    "ogDescription": "Complete tasks, earn KNTWS tokens, and climb the Agent Grid leaderboard",
+    "ogImageUrl": "https://your-domain.vercel.app/images/og-image.png",
+    "screenshotUrls": [
+      "https://your-domain.vercel.app/images/screenshot-1.png",
+      "https://your-domain.vercel.app/images/screenshot-2.png"
+    ],
+    "noindex": false
+  }
+}
